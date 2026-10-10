@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.photoassistant.daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/Users/d.sokovikov/Documents/ChatGPT/Фотография/photographer-bot/send-daily.command</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/d.sokovikov/Documents/ChatGPT/Фотография/photographer-bot</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>10</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/d.sokovikov/Documents/ChatGPT/Фотография/photographer-bot/logs/daily.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/d.sokovikov/Documents/ChatGPT/Фотография/photographer-bot/logs/error.log</string>
+</dict>
+</plist>

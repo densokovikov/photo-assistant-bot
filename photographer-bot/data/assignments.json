@@ -1,0 +1,902 @@
+[
+  {
+    "part": "Техника",
+    "title": "Лицо, оптика и перспектива",
+    "hours": "2 ч",
+    "assignment": "Снимите один портрет с одной точки на 24, 50 и 105 мм, каждый раз сохраняя размер головы кадрированием.",
+    "result": "Вы умеете объяснить, какое изменение в портрете вызвано перспективой, а какое — фокусным и дистанцией.",
+    "topic_index": 0,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t0"
+  },
+  {
+    "part": "Техника",
+    "title": "Лицо, оптика и перспектива",
+    "hours": "2 ч",
+    "assignment": "Сделайте три варианта дистанции при одном фокусном. Сравните нос, скулы, уши и фон.",
+    "result": "Вы умеете объяснить, какое изменение в портрете вызвано перспективой, а какое — фокусным и дистанцией.",
+    "topic_index": 0,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t0"
+  },
+  {
+    "part": "Техника",
+    "title": "Лицо, оптика и перспектива",
+    "hours": "2 ч",
+    "assignment": "Проверьте резкость на ближайшем глазу; отдельно снимите профиль и три четверти.",
+    "result": "Вы умеете объяснить, какое изменение в портрете вызвано перспективой, а какое — фокусным и дистанцией.",
+    "topic_index": 0,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t0"
+  },
+  {
+    "part": "Техника",
+    "title": "Естественный свет",
+    "hours": "3 ч",
+    "assignment": "Снимите у окна фронтально, боком и спиной к окну с отражением.",
+    "result": "У вас есть три естественные схемы с понятным отношением ключевого света к фону.",
+    "topic_index": 1,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t1"
+  },
+  {
+    "part": "Техника",
+    "title": "Естественный свет",
+    "hours": "3 ч",
+    "assignment": "Сделайте экспозиционную вилку: кожа приоритетна, фон допускает потерю.",
+    "result": "У вас есть три естественные схемы с понятным отношением ключевого света к фону.",
+    "topic_index": 1,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t1"
+  },
+  {
+    "part": "Техника",
+    "title": "Естественный свет",
+    "hours": "3 ч",
+    "assignment": "Повторите один кадр утром и вечером; запишите, что меняется в цвете и контрасте.",
+    "result": "У вас есть три естественные схемы с понятным отношением ключевого света к фону.",
+    "topic_index": 1,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t1"
+  },
+  {
+    "part": "Техника",
+    "title": "Студийный свет одним источником",
+    "hours": "3 ч",
+    "assignment": "Сделайте loop, Rembrandt и split, меняя только высоту и угол источника.",
+    "result": "Вы умеете построить выразительный портрет одним источником и повторить его без угадывания.",
+    "topic_index": 2,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t2"
+  },
+  {
+    "part": "Техника",
+    "title": "Студийный свет одним источником",
+    "hours": "3 ч",
+    "assignment": "Снимите белую и чёрную одежду при одинаковой экспозиции кожи.",
+    "result": "Вы умеете построить выразительный портрет одним источником и повторить его без угадывания.",
+    "topic_index": 2,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t2"
+  },
+  {
+    "part": "Техника",
+    "title": "Студийный свет одним источником",
+    "hours": "3 ч",
+    "assignment": "Добавьте флаг с теневой стороны; затем белый отражатель. Сравните микроконтраст.",
+    "result": "Вы умеете построить выразительный портрет одним источником и повторить его без угадывания.",
+    "topic_index": 2,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t2"
+  },
+  {
+    "part": "Техника",
+    "title": "Несколько источников",
+    "hours": "3 ч",
+    "assignment": "Поставьте ключ и снимите базу. Добавьте заполняющий на 1–2 ступени темнее.",
+    "result": "В световой схеме нет источника «на всякий случай»; вы можете отключить любой и назвать потерю.",
+    "topic_index": 3,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t3"
+  },
+  {
+    "part": "Техника",
+    "title": "Несколько источников",
+    "hours": "3 ч",
+    "assignment": "Включите контровой и проверьте ореол, волосы и паразитные блики.",
+    "result": "В световой схеме нет источника «на всякий случай»; вы можете отключить любой и назвать потерю.",
+    "topic_index": 3,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t3"
+  },
+  {
+    "part": "Техника",
+    "title": "Несколько источников",
+    "hours": "3 ч",
+    "assignment": "Снимите каждый источник отдельно и итоговый кадр; подпишите мощность и расстояние.",
+    "result": "В световой схеме нет источника «на всякий случай»; вы можете отключить любой и назвать потерю.",
+    "topic_index": 3,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t3"
+  },
+  {
+    "part": "Техника",
+    "title": "Вспышка вне студии и смешанный свет",
+    "hours": "3 ч",
+    "assignment": "Снимите фон без вспышки, затем добавьте вспышку на стойке под 45°.",
+    "result": "Вы контролируете не «яркость вспышки», а баланс двух экспозиций и направление света.",
+    "topic_index": 4,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t4"
+  },
+  {
+    "part": "Техника",
+    "title": "Вспышка вне студии и смешанный свет",
+    "hours": "3 ч",
+    "assignment": "Сделайте версии: фон на -2 ступени и на -1/2 ступени.",
+    "result": "Вы контролируете не «яркость вспышки», а баланс двух экспозиций и направление света.",
+    "topic_index": 4,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t4"
+  },
+  {
+    "part": "Техника",
+    "title": "Вспышка вне студии и смешанный свет",
+    "hours": "3 ч",
+    "assignment": "Согласуйте цвет вспышки с источником или намеренно оставьте разницу.",
+    "result": "Вы контролируете не «яркость вспышки», а баланс двух экспозиций и направление света.",
+    "topic_index": 4,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t4"
+  },
+  {
+    "part": "Техника",
+    "title": "Режиссура и работа с моделью",
+    "hours": "3 ч",
+    "assignment": "Подготовьте 5 конкретных глаголов: ждать, слушать, скрывать, вспоминать, защищать.",
+    "result": "Вы умеете получить состояние без насилия над человеком и объяснить, почему кадр работает.",
+    "topic_index": 5,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t5"
+  },
+  {
+    "part": "Техника",
+    "title": "Режиссура и работа с моделью",
+    "hours": "3 ч",
+    "assignment": "Снимите одну сцену в трёх темпах: неподвижно, медленно, резко.",
+    "result": "Вы умеете получить состояние без насилия над человеком и объяснить, почему кадр работает.",
+    "topic_index": 5,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t5"
+  },
+  {
+    "part": "Техника",
+    "title": "Режиссура и работа с моделью",
+    "hours": "3 ч",
+    "assignment": "После серии выберите кадры по состоянию, а не только по мимике.",
+    "result": "Вы умеете получить состояние без насилия над человеком и объяснить, почему кадр работает.",
+    "topic_index": 5,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t5"
+  },
+  {
+    "part": "Техника",
+    "title": "Ретушь, цвет, итоговая серия",
+    "hours": "4 ч",
+    "assignment": "Отберите 12 кадров без ретуши и сократите до 6 по функции в серии.",
+    "result": "Готова короткая серия с единым цветовым решением, разным масштабом и ясным финалом.",
+    "topic_index": 6,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t6"
+  },
+  {
+    "part": "Техника",
+    "title": "Ретушь, цвет, итоговая серия",
+    "hours": "4 ч",
+    "assignment": "Сделайте нейтральную цветовую основу, затем две осмысленные версии палитры.",
+    "result": "Готова короткая серия с единым цветовым решением, разным масштабом и ясным финалом.",
+    "topic_index": 6,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t6"
+  },
+  {
+    "part": "Техника",
+    "title": "Ретушь, цвет, итоговая серия",
+    "hours": "4 ч",
+    "assignment": "Проверьте кожу на трёх экранах и экспортируйте web- и print-версию.",
+    "result": "Готова короткая серия с единым цветовым решением, разным масштабом и ясным финалом.",
+    "topic_index": 6,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t6"
+  },
+  {
+    "part": "Культура",
+    "title": "История фотографии и портрета",
+    "hours": "3 ч",
+    "assignment": "Соберите временную ленту из 12 вех: ранняя фотография, модернизм, документ, мода, концептуальная практика, цифровая эпоха.",
+    "result": "Вы говорите о портрете через контекст, а не только через «красиво/некрасиво».",
+    "topic_index": 7,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t7"
+  },
+  {
+    "part": "Культура",
+    "title": "История фотографии и портрета",
+    "hours": "3 ч",
+    "assignment": "Для каждой вехи назовите: кто снимал, для кого, каким устройством, что считалось правдой.",
+    "result": "Вы говорите о портрете через контекст, а не только через «красиво/некрасиво».",
+    "topic_index": 7,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t7"
+  },
+  {
+    "part": "Культура",
+    "title": "История фотографии и портрета",
+    "hours": "3 ч",
+    "assignment": "Сравните один официальный и один личный портрет из разных периодов.",
+    "result": "Вы говорите о портрете через контекст, а не только через «красиво/некрасиво».",
+    "topic_index": 7,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t7"
+  },
+  {
+    "part": "Культура",
+    "title": "Знаковые портреты мира",
+    "hours": "3 ч",
+    "assignment": "Выберите 10 широко известных портретов разных эпох и стран.",
+    "result": "Вы умеете анализировать влияние портрета и отделять образ человека от образа, созданного вокруг него.",
+    "topic_index": 8,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t8"
+  },
+  {
+    "part": "Культура",
+    "title": "Знаковые портреты мира",
+    "hours": "3 ч",
+    "assignment": "Разберите каждый по пяти полям: субъект, автор, заказчик, публикация, эффект.",
+    "result": "Вы умеете анализировать влияние портрета и отделять образ человека от образа, созданного вокруг него.",
+    "topic_index": 8,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t8"
+  },
+  {
+    "part": "Культура",
+    "title": "Знаковые портреты мира",
+    "hours": "3 ч",
+    "assignment": "Переснимите одну формулу так, чтобы изменить власть взгляда, не копируя изображение.",
+    "result": "Вы умеете анализировать влияние портрета и отделять образ человека от образа, созданного вокруг него.",
+    "topic_index": 8,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t8"
+  },
+  {
+    "part": "Культура",
+    "title": "Композиция",
+    "hours": "3 ч",
+    "assignment": "Сделайте 20 кадров, меняя только положение головы и пустоту вокруг.",
+    "result": "Вы строите композицию под идею и можете объяснить роль каждого заметного элемента.",
+    "topic_index": 9,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t9"
+  },
+  {
+    "part": "Культура",
+    "title": "Композиция",
+    "hours": "3 ч",
+    "assignment": "Соберите один контактный лист и отметьте путь взгляда зрителя стрелками.",
+    "result": "Вы строите композицию под идею и можете объяснить роль каждого заметного элемента.",
+    "topic_index": 9,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t9"
+  },
+  {
+    "part": "Культура",
+    "title": "Композиция",
+    "hours": "3 ч",
+    "assignment": "Перекадрируйте три снимка радикально, сохраняя смысл.",
+    "result": "Вы строите композицию под идею и можете объяснить роль каждого заметного элемента.",
+    "topic_index": 9,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t9"
+  },
+  {
+    "part": "Культура",
+    "title": "Кино и портрет",
+    "hours": "2 ч",
+    "assignment": "Выберите сцену без копирования: выпишите свет, цвет, дистанцию, движение и точку зрения.",
+    "result": "Вы умеете превращать киношную атмосферу в фотографическую структуру.",
+    "topic_index": 10,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t10"
+  },
+  {
+    "part": "Культура",
+    "title": "Кино и портрет",
+    "hours": "2 ч",
+    "assignment": "Снимите диптих «до/после» вместо одного иллюстративного кадра.",
+    "result": "Вы умеете превращать киношную атмосферу в фотографическую структуру.",
+    "topic_index": 10,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t10"
+  },
+  {
+    "part": "Культура",
+    "title": "Кино и портрет",
+    "hours": "2 ч",
+    "assignment": "Смонтируйте 5 кадров как раскадровку и проверьте, читается ли конфликт без текста.",
+    "result": "Вы умеете превращать киношную атмосферу в фотографическую структуру.",
+    "topic_index": 10,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t10"
+  },
+  {
+    "part": "Культура",
+    "title": "Стиль мастеров: Аведон, Пенн, Ньюман, Арбус, Лейбовиц, Платон и другие",
+    "hours": "4 ч",
+    "assignment": "Сделайте по одному упражнению на метод каждого автора, не копируя конкретный кадр.",
+    "result": "Вы используете историю как набор инструментов анализа, а не как маску для собственного голоса.",
+    "topic_index": 11,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t11"
+  },
+  {
+    "part": "Культура",
+    "title": "Стиль мастеров: Аведон, Пенн, Ньюман, Арбус, Лейбовиц, Платон и другие",
+    "hours": "4 ч",
+    "assignment": "Перепишите заметки в глаголы: изолировать, уплотнить, встроить, столкнуть, инсценировать, приблизить.",
+    "result": "Вы используете историю как набор инструментов анализа, а не как маску для собственного голоса.",
+    "topic_index": 11,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t11"
+  },
+  {
+    "part": "Культура",
+    "title": "Стиль мастеров: Аведон, Пенн, Ньюман, Арбус, Лейбовиц, Платон и другие",
+    "hours": "4 ч",
+    "assignment": "Соберите смешанную серию и отметьте, где заканчивается влияние и начинается ваша задача.",
+    "result": "Вы используете историю как набор инструментов анализа, а не как маску для собственного голоса.",
+    "topic_index": 11,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t11"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Общая карта современной фотографии",
+    "hours": "2 ч",
+    "assignment": "Разложите 20 современных работ по восьми стратегиям.",
+    "result": "Вы умеете обсуждать современную фотографию через намерение, процесс и контекст.",
+    "topic_index": 12,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t12"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Общая карта современной фотографии",
+    "hours": "2 ч",
+    "assignment": "Для каждой работы запишите: что является идеей, что — методом, что — формой показа.",
+    "result": "Вы умеете обсуждать современную фотографию через намерение, процесс и контекст.",
+    "topic_index": 12,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t12"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Общая карта современной фотографии",
+    "hours": "2 ч",
+    "assignment": "Перенесите одну стратегию в портрет и одну — в коммерческую задачу.",
+    "result": "Вы умеете обсуждать современную фотографию через намерение, процесс и контекст.",
+    "topic_index": 12,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t12"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · If This Is Art",
+    "hours": "2 ч",
+    "assignment": "Составьте простую партитуру из 5 действий для героя и снимите её без объяснительного текста.",
+    "result": "Вы можете построить портрет как действие, а не только как позу.",
+    "topic_index": 13,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t13"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · If This Is Art",
+    "hours": "2 ч",
+    "assignment": "Снимите след действия после его окончания.",
+    "result": "Вы можете построить портрет как действие, а не только как позу.",
+    "topic_index": 13,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t13"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · If This Is Art",
+    "hours": "2 ч",
+    "assignment": "Сравните кадр события и кадр результата: где живёт идея?",
+    "result": "Вы можете построить портрет как действие, а не только как позу.",
+    "topic_index": 13,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t13"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Once Upon a Time",
+    "hours": "2 ч",
+    "assignment": "Снимите один портрет с завязкой, но без развязки.",
+    "result": "В серии есть напряжение между тем, что видно, и тем, что зритель достраивает.",
+    "topic_index": 14,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t14"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Once Upon a Time",
+    "hours": "2 ч",
+    "assignment": "Добавьте два предмета, которые меняют интерпретацию героя.",
+    "result": "В серии есть напряжение между тем, что видно, и тем, что зритель достраивает.",
+    "topic_index": 14,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t14"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Once Upon a Time",
+    "hours": "2 ч",
+    "assignment": "Попросите трёх зрителей рассказать, что произошло; сравните расхождения.",
+    "result": "В серии есть напряжение между тем, что видно, и тем, что зритель достраивает.",
+    "topic_index": 14,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t14"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Deadpan",
+    "hours": "2 ч",
+    "assignment": "Снимите портрет без постановочной эмоции, с фронтальным светом и устойчивой дистанцией.",
+    "result": "Вы можете использовать холодную форму осознанно, не путая её с пустотой.",
+    "topic_index": 15,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t15"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Deadpan",
+    "hours": "2 ч",
+    "assignment": "Сделайте серию из 5 вариантов, меняя только контекст вокруг человека.",
+    "result": "Вы можете использовать холодную форму осознанно, не путая её с пустотой.",
+    "topic_index": 15,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t15"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Deadpan",
+    "hours": "2 ч",
+    "assignment": "Проверьте, что «нейтральность» не скрывает предвзятую позицию.",
+    "result": "Вы можете использовать холодную форму осознанно, не путая её с пустотой.",
+    "topic_index": 15,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t15"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Something and Nothing",
+    "hours": "2 ч",
+    "assignment": "Снимите 10 портретов без внешнего события: ожидание, пауза, бытовой жест.",
+    "result": "Вы замечаете выразительность в малом и можете удержать внимание без драматизации.",
+    "topic_index": 16,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t16"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Something and Nothing",
+    "hours": "2 ч",
+    "assignment": "Соберите их как серию и как одиночные изображения; сравните эффект.",
+    "result": "Вы замечаете выразительность в малом и можете удержать внимание без драматизации.",
+    "topic_index": 16,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t16"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Something and Nothing",
+    "hours": "2 ч",
+    "assignment": "Уберите один «главный» кадр и проверьте, не стало ли честнее.",
+    "result": "Вы замечаете выразительность в малом и можете удержать внимание без драматизации.",
+    "topic_index": 16,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t16"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Intimate Life",
+    "hours": "2 ч",
+    "assignment": "Получите явное согласие на съёмку и публикацию конкретной серии.",
+    "result": "Вы умеете строить личную серию так, чтобы забота была частью метода.",
+    "topic_index": 17,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t17"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Intimate Life",
+    "hours": "2 ч",
+    "assignment": "Снимите один ритуал с трёх дистанций: участник, наблюдатель, архивист.",
+    "result": "Вы умеете строить личную серию так, чтобы забота была частью метода.",
+    "topic_index": 17,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t17"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Intimate Life",
+    "hours": "2 ч",
+    "assignment": "Напишите, что герой может потребовать удалить и почему.",
+    "result": "Вы умеете строить личную серию так, чтобы забота была частью метода.",
+    "topic_index": 17,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t17"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Moments in History",
+    "hours": "2 ч",
+    "assignment": "Найдите личный исторический след в месте: предмет, человек, документ, отсутствие.",
+    "result": "Серия показывает, как прошлое присутствует в настоящем, не выдавая реконструкцию за факт.",
+    "topic_index": 18,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t18"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Moments in History",
+    "hours": "2 ч",
+    "assignment": "Снимите портрет рядом со следом, не иллюстрируя событие напрямую.",
+    "result": "Серия показывает, как прошлое присутствует в настоящем, не выдавая реконструкцию за факт.",
+    "topic_index": 18,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t18"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Moments in History",
+    "hours": "2 ч",
+    "assignment": "Сделайте подпись, где отделите факт, интерпретацию и неизвестное.",
+    "result": "Серия показывает, как прошлое присутствует в настоящем, не выдавая реконструкцию за факт.",
+    "topic_index": 18,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t18"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Revived and Remade",
+    "hours": "2 ч",
+    "assignment": "Возьмите собственный архив или материал с ясными правами использования.",
+    "result": "Вы можете преобразовать найденный материал без маскировки его происхождения.",
+    "topic_index": 19,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t19"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Revived and Remade",
+    "hours": "2 ч",
+    "assignment": "Пересоберите его в портретную серию, сохранив след происхождения.",
+    "result": "Вы можете преобразовать найденный материал без маскировки его происхождения.",
+    "topic_index": 19,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t19"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Revived and Remade",
+    "hours": "2 ч",
+    "assignment": "Запишите, что добавилось вашим жестом и где проходит граница заимствования.",
+    "result": "Вы можете преобразовать найденный материал без маскировки его происхождения.",
+    "topic_index": 19,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t19"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Physical and Material",
+    "hours": "2 ч",
+    "assignment": "Напечатайте один портрет в трёх размерах и на двух фактурах.",
+    "result": "Вы проектируете не только изображение, но и его встречу со зрителем.",
+    "topic_index": 20,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t20"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Physical and Material",
+    "hours": "2 ч",
+    "assignment": "Сделайте раскладку в книге и на стене; сфотографируйте оба контекста.",
+    "result": "Вы проектируете не только изображение, но и его встречу со зрителем.",
+    "topic_index": 20,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t20"
+  },
+  {
+    "part": "Коттон",
+    "title": "Коттон · Physical and Material",
+    "hours": "2 ч",
+    "assignment": "Выберите материальную форму, которая усиливает идею, и объясните почему.",
+    "result": "Вы проектируете не только изображение, но и его встречу со зрителем.",
+    "topic_index": 20,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t20"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Диагностика себя",
+    "hours": "3 ч",
+    "assignment": "Разберите 30 своих кадров: субъект, дистанция, свет, жест, фон, эмоция, причина выбора.",
+    "result": "У вас есть карта сильных решений и слепых зон, которую можно проверить съёмкой.",
+    "topic_index": 21,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t21"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Диагностика себя",
+    "hours": "3 ч",
+    "assignment": "Составьте список из 5 повторов и 5 избеганий.",
+    "result": "У вас есть карта сильных решений и слепых зон, которую можно проверить съёмкой.",
+    "topic_index": 21,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t21"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Диагностика себя",
+    "hours": "3 ч",
+    "assignment": "Попросите двух коллег назвать три повторяющихся свойства без подсказки.",
+    "result": "У вас есть карта сильных решений и слепых зон, которую можно проверить съёмкой.",
+    "topic_index": 21,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t21"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Визуальный язык",
+    "hours": "3 ч",
+    "assignment": "Сформулируйте 7 правил проекта: что разрешено, что запрещено, что обязательно.",
+    "result": "Абстрактное «хочу атмосферу» превращается в наблюдаемые параметры.",
+    "topic_index": 22,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t22"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Визуальный язык",
+    "hours": "3 ч",
+    "assignment": "Снимите 12 кадров по правилам за один день.",
+    "result": "Абстрактное «хочу атмосферу» превращается в наблюдаемые параметры.",
+    "topic_index": 22,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t22"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Визуальный язык",
+    "hours": "3 ч",
+    "assignment": "Дайте серию зрителю без пояснения; запишите, что он считал.",
+    "result": "Абстрактное «хочу атмосферу» превращается в наблюдаемые параметры.",
+    "topic_index": 22,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t22"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Стиль и узнаваемость",
+    "hours": "2 ч",
+    "assignment": "Соберите три серии на разные темы с одним ограничением, например дистанция или цвет.",
+    "result": "Вы отличаете устойчивый метод от поверхностного визуального трюка.",
+    "topic_index": 23,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t23"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Стиль и узнаваемость",
+    "hours": "2 ч",
+    "assignment": "Уберите подписи и проверьте, что связывает серии.",
+    "result": "Вы отличаете устойчивый метод от поверхностного визуального трюка.",
+    "topic_index": 23,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t23"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Стиль и узнаваемость",
+    "hours": "2 ч",
+    "assignment": "Опишите, что вы готовы повторять годами, а что оставляете текущему проекту.",
+    "result": "Вы отличаете устойчивый метод от поверхностного визуального трюка.",
+    "topic_index": 23,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t23"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Концепция проекта",
+    "hours": "3 ч",
+    "assignment": "Напишите one-sentence premise и список из 10 вопросов героям.",
+    "result": "Есть проверяемая концепция, а не только настроение или тема.",
+    "topic_index": 24,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t24"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Концепция проекта",
+    "hours": "3 ч",
+    "assignment": "Сделайте 3 пробных кадра и отметьте, какой вопрос каждый проверяет.",
+    "result": "Есть проверяемая концепция, а не только настроение или тема.",
+    "topic_index": 24,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t24"
+  },
+  {
+    "part": "Видение и стиль",
+    "title": "Концепция проекта",
+    "hours": "3 ч",
+    "assignment": "Соберите протокол проекта: доступ, этика, формат, срок, критерии остановки.",
+    "result": "Есть проверяемая концепция, а не только настроение или тема.",
+    "topic_index": 24,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t24"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Стратегия и воронка",
+    "hours": "3 ч",
+    "assignment": "Опишите одну аудиторию, её задачу и три возражения.",
+    "result": "Маркетинг перестаёт быть публикацией «куда-нибудь» и становится управляемым маршрутом.",
+    "topic_index": 25,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t25"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Стратегия и воронка",
+    "hours": "3 ч",
+    "assignment": "Соберите путь от первого касания до оплаты в 7 шагах.",
+    "result": "Маркетинг перестаёт быть публикацией «куда-нибудь» и становится управляемым маршрутом.",
+    "topic_index": 25,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t25"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Стратегия и воронка",
+    "hours": "3 ч",
+    "assignment": "Для каждого шага создайте один измеримый сигнал: ответ, заявка, встреча, предоплата.",
+    "result": "Маркетинг перестаёт быть публикацией «куда-нибудь» и становится управляемым маршрутом.",
+    "topic_index": 25,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t25"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Контент, сайт, рассылка",
+    "hours": "3 ч",
+    "assignment": "Соберите портфолио из 3–5 серий по 8–15 сильных кадров.",
+    "result": "Ваше присутствие объясняет ценность до личного разговора.",
+    "topic_index": 26,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t26"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Контент, сайт, рассылка",
+    "hours": "3 ч",
+    "assignment": "Напишите главную страницу в 120–180 слов и один ясный CTA.",
+    "result": "Ваше присутствие объясняет ценность до личного разговора.",
+    "topic_index": 26,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t26"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Контент, сайт, рассылка",
+    "hours": "3 ч",
+    "assignment": "Составьте 4 письма: кейс, разбор, полезный инструмент, предложение.",
+    "result": "Ваше присутствие объясняет ценность до личного разговора.",
+    "topic_index": 26,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t26"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "PR, коллаборации, реклама",
+    "hours": "3 ч",
+    "assignment": "Составьте список из 20 релевантных редакций, брендов, художников или сообществ.",
+    "result": "Есть система гипотез продвижения, а не случайная рассылка всем подряд.",
+    "topic_index": 27,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t27"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "PR, коллаборации, реклама",
+    "hours": "3 ч",
+    "assignment": "Предложите 3 коллаборации с взаимной выгодой и конкретным результатом.",
+    "result": "Есть система гипотез продвижения, а не случайная рассылка всем подряд.",
+    "topic_index": 27,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t27"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "PR, коллаборации, реклама",
+    "hours": "3 ч",
+    "assignment": "Запустите малый тест рекламы с одной аудиторией, одним оффером и одной метрикой.",
+    "result": "Есть система гипотез продвижения, а не случайная рассылка всем подряд.",
+    "topic_index": 27,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t27"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Поиск клиентов и продажи",
+    "hours": "3 ч",
+    "assignment": "Проведите 3 учебных созвона по скрипту: задача, аудитория, формат, сроки, бюджет, согласование.",
+    "result": "Вы умеете перевести разговор о вкусе в договорённость о результате и процессе.",
+    "topic_index": 28,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t28"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Поиск клиентов и продажи",
+    "hours": "3 ч",
+    "assignment": "Сделайте коммерческое предложение на одну страницу с базовым и расширенным вариантом.",
+    "result": "Вы умеете перевести разговор о вкусе в договорённость о результате и процессе.",
+    "topic_index": 28,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t28"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Поиск клиентов и продажи",
+    "hours": "3 ч",
+    "assignment": "Отрепетируйте ответ на «дорого» через объём, риск и альтернативу, не через оправдание.",
+    "result": "Вы умеете перевести разговор о вкусе в договорённость о результате и процессе.",
+    "topic_index": 28,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t28"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Итоговый проект и план на 90 дней",
+    "hours": "6 ч",
+    "assignment": "Недели 1–2: утвердите концепцию, героя, этику, бюджет и критерий успеха.",
+    "result": "У вас есть законченная серия, публичная упаковка и календарь действий с цифрами.",
+    "topic_index": 29,
+    "practice_index": 0,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t29"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Итоговый проект и план на 90 дней",
+    "hours": "6 ч",
+    "assignment": "Недели 3–6: снимите и отберите серию; недели 7–8: цвет, печать, текст и сайт.",
+    "result": "У вас есть законченная серия, публичная упаковка и календарь действий с цифрами.",
+    "topic_index": 29,
+    "practice_index": 1,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t29"
+  },
+  {
+    "part": "Портфолио и маркетинг",
+    "title": "Итоговый проект и план на 90 дней",
+    "hours": "6 ч",
+    "assignment": "Недели 9–12: 20 адресных контактов, 4 публикации, 2 встречи, итоговый разбор.",
+    "result": "У вас есть законченная серия, публичная упаковка и календарь действий с цифрами.",
+    "topic_index": 29,
+    "practice_index": 2,
+    "course_url": "file:///Users/d.sokovikov/Documents/ChatGPT/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/portrait-course.html#t29"
+  }
+]
