@@ -57,8 +57,17 @@ class BuildDailyMessageTest(unittest.TestCase):
             "part": "Видение и стиль",
             "title": "Диагностика себя",
             "hours": "3 ч",
-            "assignment": "Разберите 30 кадров <своих>.",
+            "theory": "Сначала изучите <свои> повторяющиеся решения.",
+            "practice": [
+                "Разберите 30 кадров <своих>.",
+                "Соберите короткую серию.",
+            ],
             "result": "Найдите сильные решения.",
+            "advice": [
+                "Начните с одной темы.",
+                "Проверьте выводы на новой съёмке.",
+            ],
+            "source": "Учебный материал курса.",
             "course_url": "file:///course.html#t0",
         }
 
@@ -73,9 +82,16 @@ class BuildDailyMessageTest(unittest.TestCase):
 
         self.assertIn("Надар &amp; Co", message)
         self.assertIn("Nadar &lt;Studio&gt;", message)
+        self.assertIn("Урок 1/3", message)
+        self.assertIn("Теория", message)
+        self.assertIn("Сначала изучите &lt;свои&gt; повторяющиеся решения.", message)
+        self.assertIn("Практика", message)
         self.assertIn("Разберите 30 кадров &lt;своих&gt;.", message)
+        self.assertIn("Соберите короткую серию.", message)
+        self.assertIn("Начните с одной темы.", message)
+        self.assertIn("Проверьте выводы на новой съёмке.", message)
+        self.assertIn("Учебный материал курса.", message)
         self.assertIn("Фотограф 1/2", message)
-        self.assertIn("Задание 1/3", message)
         self.assertIn('href="https://example.com/?q=nadar&amp;lang=ru"', message)
         self.assertNotIn('href="file:///course.html#t0"', message)
 

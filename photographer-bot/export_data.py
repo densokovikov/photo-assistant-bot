@@ -3,10 +3,6 @@ import subprocess
 from pathlib import Path
 from urllib.parse import urlencode
 
-from openpyxl import Workbook
-from openpyxl.styles import Alignment, Font, PatternFill
-
-
 ROOT = Path(__file__).resolve().parent.parent
 BOT_DIR = Path(__file__).resolve().parent
 DATA_DIR = BOT_DIR / "data"
@@ -52,22 +48,23 @@ def photographer_rows():
 def assignment_rows():
     topics = extract_js_value(COURSE_HTML, "const topics=", "const svgByPart=", "topics")
     course_url = COURSE_HTML.as_uri()
-    assignments = []
+    lessons = []
     for topic_index, topic in enumerate(topics):
-        for practice_index, assignment in enumerate(topic["practice"]):
-            assignments.append(
-                {
-                    "part": topic["part"],
-                    "title": topic["title"],
-                    "hours": topic["hours"],
-                    "assignment": assignment,
-                    "result": topic["result"],
-                    "topic_index": topic_index,
-                    "practice_index": practice_index,
-                    "course_url": f"{course_url}#t{topic_index}",
-                }
-            )
-    return assignments
+        lessons.append(
+            {
+                "part": topic["part"],
+                "title": topic["title"],
+                "hours": topic["hours"],
+                "theory": topic["theory"],
+                "practice": topic["practice"],
+                "result": topic["result"],
+                "advice": topic["advice"],
+                "source": topic["source"],
+                "topic_index": topic_index,
+                "course_url": f"{course_url}#t{topic_index}",
+            }
+        )
+    return lessons
 
 
 def save_json(name, data):
@@ -79,6 +76,8 @@ def save_json(name, data):
 
 
 def add_sheet(workbook, name, rows, columns, widths):
+    from openpyxl.styles import Alignment, Font, PatternFill
+
     sheet = workbook.create_sheet(name)
     sheet.freeze_panes = "A2"
     sheet.auto_filter.ref = f"A1:{chr(64 + len(columns))}{len(rows) + 1}"
@@ -93,6 +92,10 @@ def add_sheet(workbook, name, rows, columns, widths):
     for row_index, row in enumerate(rows, start=2):
         for column_index, (key, _) in enumerate(columns, start=1):
             value = row.get(key, "")
+            if isinstance(value, list):
+                value = "\n".join(
+                    f"{index}. {item}" for index, item in enumerate(value, start=1)
+                )
             cell = sheet.cell(row_index, column_index, value)
             cell.font = Font(name="Arial", size=10)
             cell.alignment = Alignment(vertical="top", wrap_text=True)
@@ -103,6 +106,8 @@ def add_sheet(workbook, name, rows, columns, widths):
 
 
 def save_workbook(photographers, assignments):
+    from openpyxl import Workbook
+
     workbook = Workbook()
     workbook.remove(workbook.active)
     add_sheet(
@@ -129,13 +134,15 @@ def save_workbook(photographers, assignments):
             ("part", "Раздел курса"),
             ("title", "Тема"),
             ("hours", "Часы"),
-            ("assignment", "Задание"),
+            ("theory", "Теория"),
+            ("practice", "Практика"),
             ("result", "Цель"),
+            ("advice", "Советы"),
+            ("source", "Источник"),
             ("topic_index", "№ темы (с 0)"),
-            ("practice_index", "№ задания (с 0)"),
             ("course_url", "Ссылка на тему"),
         ],
-        [24, 32, 10, 64, 54, 16, 18, 44],
+        [24, 32, 10, 64, 64, 54, 54, 48, 16, 44],
     )
     workbook.save(WORKBOOK_PATH)
 

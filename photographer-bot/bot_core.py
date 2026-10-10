@@ -28,6 +28,12 @@ def _link(label, url):
     return f'<a href="{escape(str(url), quote=True)}">{escape(label)}</a>'
 
 
+def _bullet_list(items):
+    return "\n".join(
+        f"{index}. {escape(str(item))}" for index, item in enumerate(items or [], start=1)
+    )
+
+
 def build_daily_message(
     photographer,
     assignment,
@@ -53,13 +59,25 @@ def build_daily_message(
         _link("Найти работы ↗", photographer.get("search_url")),
     ]
 
+    practice = assignment.get("practice")
+    if not practice and assignment.get("assignment"):
+        practice = [assignment["assignment"]]
+    advice = assignment.get("advice") or []
+
     assignment_lines = [
-        f"🎯 <b>Задание {assignment_number}/{assignment_total}</b>",
+        f"📚 <b>Урок {assignment_number}/{assignment_total}</b>",
         f"<b>{escape(str(assignment.get('title', 'Практика')))}</b>",
         _line("Раздел курса", assignment.get("part")),
         _line("Время темы", assignment.get("hours")),
-        escape(str(assignment.get("assignment", ""))),
-        _line("Цель", assignment.get("result")),
+        "\n📖 <b>Теория</b>" if assignment.get("theory") else "",
+        escape(str(assignment.get("theory", ""))),
+        "\n🎯 <b>Практика</b>" if practice else "",
+        _bullet_list(practice),
+        "\n✅ <b>Итог</b>" if assignment.get("result") else "",
+        escape(str(assignment.get("result", ""))),
+        "\n💡 <b>Советы</b>" if advice else "",
+        "\n".join(escape(str(item)) for item in advice),
+        _line("Источник урока", assignment.get("source")),
         _link("Открыть тему курса ↗", assignment.get("course_url")),
     ]
 

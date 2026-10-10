@@ -34,7 +34,7 @@ class PrepareCloudDeliveryTest(unittest.TestCase):
         self.assertIn("B", message)
         self.assertIn("Y", message)
         self.assertIn("Фотограф 2/2", message)
-        self.assertIn("Задание 2/3", message)
+        self.assertIn("Урок 2/3", message)
 
 
 if __name__ == "__main__":
