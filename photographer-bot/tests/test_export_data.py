@@ -14,6 +14,10 @@ class AssignmentRowsTest(unittest.TestCase):
         self.assertEqual(len(lessons[0]["advice"]), 2)
         self.assertTrue(lessons[0]["result"])
         self.assertTrue(lessons[0]["source"])
+        self.assertEqual(
+            lessons[0]["course_url"],
+            "https://densokovikov.github.io/photo-assistant-bot/portrait-course.html#t0",
+        )
 
 
 if __name__ == "__main__":

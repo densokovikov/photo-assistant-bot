@@ -47,7 +47,7 @@ def photographer_rows():
 
 def assignment_rows():
     topics = extract_js_value(COURSE_HTML, "const topics=", "const svgByPart=", "topics")
-    course_url = COURSE_HTML.as_uri()
+    course_url = "https://densokovikov.github.io/photo-assistant-bot/portrait-course.html"
     lessons = []
     for topic_index, topic in enumerate(topics):
         lessons.append(
