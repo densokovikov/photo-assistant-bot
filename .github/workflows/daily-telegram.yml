@@ -4,7 +4,15 @@ on:
   schedule:
     - cron: "0 10 * * *"
       timezone: "Europe/Moscow"
+    - cron: "17 10-23 * * *"
+      timezone: "Europe/Moscow"
   workflow_dispatch:
+    inputs:
+      force_send:
+        description: Send again even if today's lesson was already delivered
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -18,15 +26,30 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Determine Moscow delivery date
+        shell: bash
+        run: echo "DELIVERY_DATE=$(TZ=Europe/Moscow date +%F)" >> "$GITHUB_ENV"
+
+      - name: Check whether today's lesson was delivered
+        id: delivery-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .delivery-marker
+          key: telegram-delivery-${{ env.DELIVERY_DATE }}
+          lookup-only: true
+
       - name: Check out repository
+        if: steps.delivery-cache.outputs.cache-hit != 'true' || inputs.force_send == true
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.delivery-cache.outputs.cache-hit != 'true' || inputs.force_send == true
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Send photographer and assignment
+        if: steps.delivery-cache.outputs.cache-hit != 'true' || inputs.force_send == true
         working-directory: photographer-bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -35,3 +58,17 @@ jobs:
           PHOTOGRAPHER_START_INDEX: "0"
           ASSIGNMENT_START_INDEX: "0"
         run: python send_cloud.py
+
+      - name: Mark today's lesson as delivered
+        if: steps.delivery-cache.outputs.cache-hit != 'true'
+        shell: bash
+        run: |
+          mkdir -p .delivery-marker
+          touch .delivery-marker/sent
+
+      - name: Save delivery marker
+        if: steps.delivery-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .delivery-marker
+          key: telegram-delivery-${{ env.DELIVERY_DATE }}
